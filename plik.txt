@@ -1,3 +1,4 @@
 16:20 18.01.2024	Pierwsza linia 'kodu'.
 16:48 18.01.2024	Druga linia 'kodu'.
 16:51 18.01.2024	Trzecia linia 'kodu'.
+16:52 18.01.2024	Czwarta linia 'kodu'.
