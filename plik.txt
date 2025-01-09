@@ -1,1 +1,2 @@
 16:26 09.01.2025	Pierwsza linia 'kodu'.
+17:48 09.01.2025	Druga linia 'kodu'.
